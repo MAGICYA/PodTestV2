@@ -7,6 +7,7 @@
 //
 
 #import "YYBViewController.h"
+#import "YYBTest1.h"
 
 @interface YYBViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [YYBTest1 helloPod];
 }
 
 - (void)didReceiveMemoryWarning
