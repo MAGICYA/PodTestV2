@@ -11,7 +11,7 @@
 
 + (void) helloPod
 {
-    NSLog(@"helloPod 1.0.0");
+    NSLog(@"helloPod 2.0.0");
 }
 
 @end
