@@ -65,7 +65,7 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8CDB286076DCE751143FC956 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9684E6084CA3B8B998921449 /* Pods_PodTestV2_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodTestV2_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9DABDD2C3488466FD71C4802 /* PodTestV2.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PodTestV2.podspec; path = ../PodTestV2.podspec; sourceTree = "<group>"; };
+		9DABDD2C3488466FD71C4802 /* PodTestV2.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PodTestV2.podspec; path = ../PodTestV2.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B09F46C089C9D82DF19E0984 /* Pods-PodTestV2_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodTestV2_Tests.debug.xcconfig"; path = "Target Support Files/Pods-PodTestV2_Tests/Pods-PodTestV2_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

@@ -1,5 +1,5 @@
 PODS:
-  - PodTestV2 (1.0.1)
+  - PodTestV2 (3.0.0)
 
 DEPENDENCIES:
   - PodTestV2 (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PodTestV2: 7fd228a6edf61119c60bc6468cb270cf43f84c14
+  PodTestV2: 9ebe43fa50f3676e1957ba37d895879a7c7dc7ef
 
 PODFILE CHECKSUM: 5d4f5d1f1da0f8093244ec1bda53405a1cb9b5ea
 
